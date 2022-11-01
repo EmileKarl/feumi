@@ -1,0 +1,9 @@
+C:/feumi/build/windows/runner/Debug/data/icudtl.dat
+C:/feumi/build/windows/runner/Debug/flutter_windows.dll
+C:/feumi/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/feumi/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/feumi/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/feumi/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/feumi/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/feumi/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/feumi/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
